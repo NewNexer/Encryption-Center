@@ -1,3 +1,5 @@
+i know that this is shit
+
 # obfuscation
 ```luau
 code = [[print("Test")]]
